@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "repo-add": "git subtree add --prefix hf-axdevtool https://github.com/4mbromark/hf-axdevtool main -m 'automatic-dependencies-update'",
-        "repo-update": "git subtree pull --prefix hf-axdevtool https://github.com/4mbromark/hf-axdevtool main -m 'automatic-dependencies-update'"
+        "repo-add": "git subtree add --prefix hf-axdevtool https://github.com/4mbromark/hf-axdevtool main -m automatic-dependencies-update",
+        "repo-update": "git subtree pull --prefix hf-axdevtool https://github.com/4mbromark/hf-axdevtool main -m automatic-dependencies-update"
     }
 }
